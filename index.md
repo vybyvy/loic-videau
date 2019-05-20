@@ -1,14 +1,19 @@
 # Loïc VIDEAU - Dessinateur Projeteur
 
-## ce que tu veux
 
-You can use the [editor on GitHub](https://github.com/vybyvy/loic-videau/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Profil
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Architecte inscrit à l’ordre de Bourgogne et salarié pendant 10 ans au sein d'une petite structure, j'ai pu aborder tous les aspects du métier, tous les types de missions, sur toutes les phases d’étude et de réalisation et ce sur des projets de natures et d'envergures très variables (marchés privés / publiques).
 
-### Markdown
+Je suis donc tout à fait conscient des spécificités et contraintes de cette profession.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Je me concentre aujourd'hui sur des missions chronophages et techniques (dessin 2D, modélisation et rendu 3D, photomontage...) afin de vous proposer un service qui vous permettra d'optimiser votre activité, en vous dégageant du temps pour les missions importantes.
+
+### Les avantages du Freelance
+
+Mon mode d’exercice en freelance, vous permet une grande souplesse d’utilisation et une maîtrise
+des frais, en faisant appel à mes services quand le besoin s’en fait vraiment sentir.
+Cela vous permet de bénéficier de compétences supplémentaires, sans les contraintes d’un salarié.
 
 ```markdown
 Syntax highlighted code block
